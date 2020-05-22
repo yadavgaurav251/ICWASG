@@ -1,5 +1,5 @@
 # ICWASG
-If College Was A Space Game. Is a hyper causal game developed in Unity .
+If College Was A Space Game. Is a Hyper-causal Game developed in Unity .
 
 # Screenshot
 
