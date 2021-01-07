@@ -6,8 +6,7 @@
 
 The game is made for MacOS, so please keep that in mind while trying to run it.
 <a href="https://drive.google.com/drive/folders/1DKVmcjiKcvIqjlGbzB5x4Mtvcr8gWd7I?usp=sharing">
-    Download 
-    <img src="/assets/favicons/file-download-solid.svg" href="https://drive.google.com/file/d/1aU3W1mPNXOeKFjy0FpBplhIZ1oNT3aos/view?usp=sharing" width=16 height=16>
+    Download 🎮
 </a>
 
 # Screenshots
